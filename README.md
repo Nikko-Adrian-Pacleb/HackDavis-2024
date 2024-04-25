@@ -1,5 +1,5 @@
 # HackDavis-2024
 
 Participants
-Yong Wang
+Yong Wong
 Nikko Pacleb
