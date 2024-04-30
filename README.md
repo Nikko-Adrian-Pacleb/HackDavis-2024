@@ -1,6 +1,2 @@
 # HackDavis-2024
-
-Participants
-Yong Wong
-Nikko Pacleb
-July
+participants: Nikko, Yong, Janet, July
